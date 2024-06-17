@@ -1,0 +1,18 @@
+This project delves into the complex domain of the human intra-urban mobility modeling, in particular 
+in the trajectories reconstruction from GPS data with potentially large and varied sampling rate 
+along with spatial and temporal gaps. The main goal of the project is to create a mobility model 
+capable of reconstructing and predicting the intra-urban mobility patterns of a designated device, 
+especially in scenarios with compromised data quality. To address this challenge, two anonymised 
+mobility data samples will be released for a specific number of users, a specific time period and 
+a well-defined urban area. The first sample, serving as a high-quality ground truth, will distinctly 
+delineate the trajectories of individual users. The second sample, on the other hand, will be a modified 
+version of it, designed by introducing noise and resampling to simulate real-world spatial and sampling 
+irregularities. These datasets will be complemented by the corresponding road network extracted from 
+OpenStreetMap. The team’s mission is to develop a methodology capable of reconstructing accurate 
+trajectories from the corrupted subsample. At the same time, the team must provide metrics that 
+facilitate the evaluation of the precision and accuracy of the results against the established 
+ground truth. The entire process will take place within Cuebiq’s Spectus platform, which provides 
+access to the data and computational capabilities required for effective development and analysis. 
+In conclusion, the project enables the exploration of real-world mobility data and the interesting 
+challenge of mobility trajectory reconstruction, all by exploiting the advanced capabilities of the 
+Spectus platform.
