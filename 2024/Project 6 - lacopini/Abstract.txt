@@ -1,0 +1,12 @@
+This project focuses on deciphering the drivers of social interactions through a 
+comprehensive analysis of longitudinal data supplemented by metadata. The project 
+builds on top of recent research outputs on the social dynamics of link and group 
+formation extracted from temporally-resolved empirical proximity data. In particular, 
+by linking both individual and external factors (as well as environmental constraints) 
+to the dynamical behavior of a temporal social network, the study aims to study the 
+patterns of initiation, maintenance, evolution, and transformation of both interpersonal 
+bonds and group affiliations. The investigation will extend beyond pairwise interactions 
+to also include group dynamics. The project will rely on two independent data collection 
+experiments that include both human interactions and individual metadata (age, language, 
+declared attractiveness, socio-economic features, family education, etc.), bringing 
+valuable insights for social and network scientists.
